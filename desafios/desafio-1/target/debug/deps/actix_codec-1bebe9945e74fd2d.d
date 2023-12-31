@@ -1,0 +1,10 @@
+C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\desafios\desafio-1\target\debug\deps\libactix_codec-1bebe9945e74fd2d.rmeta: C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs
+
+C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\desafios\desafio-1\target\debug\deps\libactix_codec-1bebe9945e74fd2d.rlib: C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs
+
+C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\desafios\desafio-1\target\debug\deps\actix_codec-1bebe9945e74fd2d.d: C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs
+
+C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs:
+C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs:
+C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs:
+C:\Users\dougl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs:

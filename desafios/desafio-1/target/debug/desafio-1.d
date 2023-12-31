@@ -1,0 +1,1 @@
+C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\desafios\desafio-1\target\debug\desafio-1.exe: C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\desafios\desafio-1\src\main.rs
