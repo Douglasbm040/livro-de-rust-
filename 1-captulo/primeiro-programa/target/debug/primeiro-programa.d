@@ -1,1 +1,0 @@
-C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\1-captulo\primeiro-programa\target\debug\primeiro-programa.exe: C:\Users\dougl\OneDrive\Documentos\projeto\test\boi_gordo\livro-de-rust-\1-captulo\primeiro-programa\src\main.rs
