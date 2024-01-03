@@ -4,7 +4,7 @@
 mod tests {
     use crate::atividades::questao_2::questao2;
     use crate::atividades::questao_3::questao3;
-    use crate::atividades::questao_4::verificaInteiro;
+    use crate::atividades::questao_4::verifica_inteiro;
 
     #[test]
     fn teste_questao2() {
