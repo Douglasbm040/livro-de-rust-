@@ -4,6 +4,7 @@
 mod tests {
     use crate::atividades::questao_2::questao2;
     use crate::atividades::questao_3::questao3;
+    use crate::atividades::questao_4::verificaInteiro;
 
     #[test]
     fn teste_questao2() {
@@ -14,5 +15,13 @@ mod tests {
     fn teste_questao3() {
         let resultado = questao3();
         assert_eq!(resultado, 4);
+    }
+
+    #[test]
+    fn test_questao4(){
+        let test_1 = verifica_inteiro("1".to_string());
+        assert_eq!(test_1,"1");
+        let test_2 = verifica_inteiro("1a".to_string());
+        assert_eq!(test_2,"Valor não é um número inteiro".to_string())
     }
 }
